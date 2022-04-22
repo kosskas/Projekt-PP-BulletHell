@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{c347b367-fc86-4aed-8c78-2fc073dbb852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\player">
+      <UniqueIdentifier>{65078790-a4f1-4159-ad96-35ce117c9aac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\enemy">
+      <UniqueIdentifier>{e67d7132-12ab-403f-9cf1-10a85529fd97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\cs8x8.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\heart.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\loss.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\menu.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\tlo2.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\win.bmp">
+      <Filter>assets</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy_dead.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy0.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy1.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy2.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy3.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\enemy4.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\fireball0.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\fireball1.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\fireball2.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\enemy\fireball3.bmp">
+      <Filter>assets\enemy</Filter>
+    </Image>
+    <Image Include="assets\player\bullet.bmp">
+      <Filter>assets\player</Filter>
+    </Image>
+    <Image Include="assets\player\planeE.bmp">
+      <Filter>assets\player</Filter>
+    </Image>
+    <Image Include="assets\player\planeN.bmp">
+      <Filter>assets\player</Filter>
+    </Image>
+    <Image Include="assets\player\planeS.bmp">
+      <Filter>assets\player</Filter>
+    </Image>
+    <Image Include="assets\player\planeW.bmp">
+      <Filter>assets\player</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
